@@ -946,7 +946,7 @@ def something():
 
 
 
-bg=Image.open("pii5.png")
+bg=Image.open("pii5.jpg")
 resized=bg.resize((1280,720), Image.Resampling.LANCZOS)
 bg=ImageTk.PhotoImage(resized)
 MyCanvas=Canvas(root,width=1280,height=720)
@@ -1902,7 +1902,7 @@ def something():
 
 
 
-bg=Image.open("pii5.png")
+bg=Image.open("pii5.jpg")
 resized=bg.resize((1280,720), Image.Resampling.LANCZOS)
 bg=ImageTk.PhotoImage(resized)
 MyCanvas=Canvas(root,width=1280,height=720)
