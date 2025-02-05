@@ -2,10 +2,14 @@ FLOW OF PROJECT
 
 UI- User interface used is Tkinter, the standard GUI library for
 Python.
+
 USER EXPERIENCE
+
 The user experience from start to end is listed below. 
+
 1)The program runs as a single .exe file and is provided along with
 all necessary additional files.
+
 2)When running the application for the first time, The necessary
 binary files are created
 3)The cover page is opened with the order now button.
