@@ -24,20 +24,26 @@ please visit again”
 6) If y(yes) is entered then the following steps take place
 
     -The menu is displayed.
+
     -The user will be asked to enter the number of the desired
      item.
-    - After entering the desired value, the user will be asked if
-      they want to continue ordering
+
+    -After entering the desired value, the user will be asked if
+     they want to continue ordering
+
     -If the choice entered is n(no) then a new window opens where
      the user can check previous orders, and then proceed to
      check if any coupons can be applied. Upon proceeding to buy,
      the total will be displayed.
+
     -If the choice entered is y(yes) then the menu will be
      displayed again where the user can repeat the same process.
+
     -Coupons become applicable when the user is a frequent user.
        Two options will be displayed- the user will get the choice
        either to use the frequent customer coupon directly or save
        to balance.
+       
     -Once a frequent customer coupon is used, it is no longer
      applicable. If the user has saved money to balance then
      he/she will be asked if they want to use the money in the
